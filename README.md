@@ -1,0 +1,1 @@
+Aspiring Machine Learning Engineer passionate about AI-driven Business Automation & Decision Optimization. Experienced in Python, SQL, and deep learning frameworks, with hands-on experience building and optimizing neural networks for predictive analytics, computer vision, and MLOps. Excited to apply AI solutions to streamline workflows and enhance data-driven decision-making.
