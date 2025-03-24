@@ -1,4 +1,4 @@
-Hi, I’m Sebastian Garza — an aspiring Machine Learning Engineer passionate about building intelligent systems that drive business automation and smarter decision-making.
+Hi, I’m Sebastian — an aspiring Machine Learning Engineer passionate about building intelligent systems that drive business automation and smarter decision-making.
 
 I'm currently pursuing a B.S. in Computer Science with concentrations in Applied Statistics and Data Analytics at the University of St. Thomas. I’ve gained hands-on experience developing ML solutions, including:
 
